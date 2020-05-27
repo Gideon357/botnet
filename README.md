@@ -1,6 +1,6 @@
 # A FUD Malware
 
-This is a malware  C&C malware in CPP and Python. This is for educational purposes only.
+This is a C&C botnet malware in C++ and Python. This is for educational purposes only.
 
 ## Development Enviroment
 
